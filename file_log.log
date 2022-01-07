@@ -1,0 +1,32 @@
+commit ad9731cf541f8b2edb1ea5229948d07fbe174650
+Merge: c7a3162 b8258f8
+Author: Puneet289 <57964743+Puneet289@users.noreply.github.com>
+Date:   Fri Jan 7 15:24:53 2022 +0530
+
+    conflict resolved
+
+commit c7a3162943acc08de1596b78623a8bfcd5dcf636
+Author: Puneet289 <57964743+Puneet289@users.noreply.github.com>
+Date:   Fri Jan 7 15:20:15 2022 +0530
+
+    appended content to merge.txt
+    
+    git commit -am
+
+commit b8258f8e44335471f7ec5e7a869e77f9312ccc9f
+Author: Puneet289 <57964743+Puneet289@users.noreply.github.com>
+Date:   Fri Jan 7 15:18:31 2022 +0530
+
+    edited merge.txt and commited
+
+commit 49cb123c2261c69f2bee9e27053018aa43a829f7
+Author: Puneet289 <57964743+Puneet289@users.noreply.github.com>
+Date:   Fri Jan 7 15:17:16 2022 +0530
+
+    Initial Commit
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
