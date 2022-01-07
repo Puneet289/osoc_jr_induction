@@ -1,0 +1,12 @@
+The merge conflict:
+-> The failure during the merge process indicates that there is a conflict between the local branch and the branch being merged.
+In this case, Git resolves as much as possible, but there are things that have to be resolved manually in the conflicted files.
+The merge conflict generally occurs when the file is accessed by two users and when one of them makes changes and other tries to merge the files.
+
+Resolving the conflict:
+->The easiest way to resolve a conflicted file is to open it and make any necessary changes(in this case removing all the conflict seperators).
+->After editing the file, we can use the git add a command to stage the new merged content.
+->The final step is to create a new commit with the help of the git commit command.
+->Git will create a new merge commit to finalize the merge.
+
+->we can also use git reset command to resolve the merge conflict.
